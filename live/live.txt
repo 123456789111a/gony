@@ -22,6 +22,6 @@
     <td width="239px"><a href="https://blog.naver.com/gonyjam/221577716478" target="_blank" title="새창으로 열림"><img id="https://raw.githubusercontent.com/123456789111a/gony/master/live/pic/12(%EA%B4%80).jpg?image_loading_time=<?php echo time()?>" src="https://raw.githubusercontent.com/123456789111a/gony/master/live/pic/12(%EA%B4%80).jpg?image_loading_time=<?php echo time()?>" width="223" height="219" alt="대문이미지" style="width: 223px; height: 219px;"></a><br></td>
   </tr>
   <tr height="58px">
-    <td width="740px" colspan="4"><img id="https://raw.githubusercontent.com/123456789111a/gony/master/live/pic/14.png?image_loading_time=<?php echo time()?>" src="https://raw.githubusercontent.com/123456789111a/gony/master/live/pic/14.png?image_loading_time=<?php echo time()?>" width="740" height="58" alt="대문이미지" style="width: 740px; height: 58px;"></td>
+    <td width="740px" colspan="4"><img id="https://raw.githubusercontent.com/123456789111a/gony/master/live/pic/14%20(3).png?image_loading_time=<?php echo time()?>" src="https://raw.githubusercontent.com/123456789111a/gony/master/live/pic/14%20(3).png?image_loading_time=<?php echo time()?>" width="750" height="58" alt="대문이미지" style="width: 750px; height: 58px;"></td>
   </tr>
 </tbody></table>
